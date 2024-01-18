@@ -10,6 +10,7 @@
 Armankhanngr/Armankhanngr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 apt update 
 
 apt upgrade 
@@ -30,7 +31,7 @@ pkg install python
 
 apt update
 
-Apt upgrade
+apt upgrade
  
 pkg install python
 
@@ -42,7 +43,9 @@ pip2 install requests
 
 pip2 install mechanize
 
-pip install requests insta ll requests bs4
+pip install requests bs4
+
+pip2 install requests bs4
 
 pip install mechanize lolcat
 
@@ -53,4 +56,4 @@ pip2 install mechanize
 
 
 
-#AFG_Arnankhan_🇦🇫❣️
+#AFG_AK NGR_🇦🇫❣️
